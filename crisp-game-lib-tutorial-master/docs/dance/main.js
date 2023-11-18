@@ -114,5 +114,7 @@ function update() {
 		}
 	}
 
+	addEventListener("load", onLoad);
+
 
 }
