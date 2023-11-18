@@ -9,6 +9,6 @@ options = {};
 
 function update() {
 	if (!ticks) {
-		
+		//
 	}
 }
